@@ -1,4 +1,4 @@
-C# Fundamental
+#C# Fundamental
 ## Proje Başlığı
 **Konsol Tabanlı Oyun ve Hesaplama Uygulaması**
 
