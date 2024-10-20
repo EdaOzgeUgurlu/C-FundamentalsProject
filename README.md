@@ -1,5 +1,4 @@
-# README Dosyası
-
+C# Fundamental
 ## Proje Başlığı
 **Konsol Tabanlı Oyun ve Hesaplama Uygulaması**
 
