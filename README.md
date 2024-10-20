@@ -131,9 +131,6 @@ if (isTrue1 && isTrue2 && isTrue3) // Tüm notlar geçerliyse
 ## Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için lütfen [LICENSE](LICENSE) dosyasını kontrol edin.
 
-## İletişim
-Sorularınız veya önerileriniz için [email@example.com](mailto:email@example.com) adresi üzerinden benimle iletişime geçebilirsiniz.
-
 ## Katkıda Bulunma
 Katkılarınızı bekliyoruz! Projeye katkıda bulunmak için aşağıdaki adımları izleyebilirsiniz:
 1. Repo'yu forkladıktan sonra kendi branch'inizde değişiklikler yapın.
@@ -145,6 +142,3 @@ Katkılarınızı bekliyoruz! Projeye katkıda bulunmak için aşağıdaki adım
 - **Grafik Arayüz**: Konsol uygulaması yerine grafik arayüze sahip bir versiyon geliştirilebilir.
 - **Veritabanı Entegrasyonu**: Kullanıcıların geçmiş oyunlarını kaydedebileceği bir sistem eklenebilir.
 
----
-
-Bu README, projenin kapsamlı bir görünümünü sunarak kullanıcıların uygulamayı etkili bir şekilde kullanmalarına yardımcı olmaktadır. Herhangi bir sorunuz varsa veya daha fazla bilgiye ihtiyacınız olursa, lütfen çekinmeden ulaşın!
